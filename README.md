@@ -5,7 +5,7 @@ Projeto de automação para cadastro de produtos em um sistema.
 
 - Vamos usar o pyautogui para controlar o mouse e o teclado e executar tarefas como se fosse você!
 
-- A ideia do projeto é que você consiga entrar em um site (https://dlp.hashtagtreinamentos.com/python/intensivao/login), fazer seu login e fazer o cadastro de todos os produtos de forma automática.
+- A ideia do projeto é que você consiga entrar em um site (https://dlp.hashtagtreinamentos.com/python/intensivao/login), fazer seu login e fazer o cadastro de todos os produtos de uma base de dados de forma automática.
 
 
 ## Como rodar o projeto
